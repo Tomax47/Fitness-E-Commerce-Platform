@@ -2,8 +2,6 @@
 
 one:
   focus: MyString
-  lif: one
 
 two:
   focus: MyString
-  lif: two
